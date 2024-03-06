@@ -1,0 +1,892 @@
+{
+    "stamps": {
+        "EBG": {
+            "id": "EBG",
+            "name": "Blue Ridge Regional",
+            "coordinates": {
+                "latitude": 36.7470,
+                "longitude": -82.4017
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "NDY": {
+            "id": "NDY",
+            "name": "Grundy Municipal",
+            "coordinates": {
+                "latitude": 37.2667,
+                "longitude": -82.1000
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "BYW": {
+            "id": "BYW",
+            "name": "Lee County",
+            "coordinates": {
+                "latitude": 36.7001,
+                "longitude": -83.3808
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "LNP": {
+            "id": "LNP",
+            "name": "Lonesome Pine",
+            "coordinates": {
+                "latitude": 36.7408,
+                "longitude": -82.8628
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "MKJ": {
+            "id": "MKJ",
+            "name": "Mountain Empire",
+            "coordinates": {
+                "latitude": 36.9003,
+                "longitude": -82.0873
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "PSK": {
+            "id": "PSK",
+            "name": "New River Valley",
+            "coordinates": {
+                "latitude": 37.1359,
+                "longitude": -80.6767
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "TZA": {
+            "id": "TZA",
+            "name": "Tazewell County",
+            "coordinates": {
+                "latitude": 37.1019,
+                "longitude": -81.5031
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "HLX": {
+            "id": "HLX",
+            "name": "Twin County",
+            "coordinates": {
+                "latitude": 36.6932,
+                "longitude": -82.0139
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "VJI": {
+            "id": "VJI",
+            "name": "Virginia Highlands",
+            "coordinates": {
+                "latitude": 36.6900,
+                "longitude": -82.0300
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "BCB": {
+            "id": "BCB",
+            "name": "Virginia Tech/Montgomery Executive",
+            "coordinates": {
+                "latitude": 37.1942,
+                "longitude": -80.4075
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 1",
+            "secondaryIdentifier": "1"
+        },
+        "BVA": {
+            "id": "BVA",
+            "name": "Bridgewater Air Park",
+            "coordinates": {
+                "latitude": 38.3547,
+                "longitude": -79.0089
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "CHO": {
+            "id": "CHO",
+            "name": "Charlottesville Albemarle Airport",
+            "coordinates": {
+                "latitude": 38.1386,
+                "longitude": -78.4529
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "FRR": {
+            "id": "FRR",
+            "name": "Front Royal-Warren County",
+            "coordinates": {
+                "latitude": 38.9167,
+                "longitude": -78.2500
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "GVE": {
+            "id": "GVE",
+            "name": "Gordonsville Municipal",
+            "coordinates": {
+                "latitude": 38.1117,
+                "longitude": -78.1667
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "HWY": {
+            "id": "HWY",
+            "name": "Ingalls Field",
+            "coordinates": {
+                "latitude": 38.0667,
+                "longitude": -78.5000
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "LUA": {
+            "id": "LUA",
+            "name": "Luray Caverns",
+            "coordinates": {
+                "latitude": 38.6667,
+                "longitude": -78.5000
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "99V": {
+            "id": "99V",
+            "name": "New Market",
+            "coordinates": {
+                "latitude": 38.6417,
+                "longitude": -78.6767
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "ONG": {
+            "id": "ONG",
+            "name": "Orange County",
+            "coordinates": {
+                "latitude": 38.2433,
+                "longitude": -77.9867
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "ROA": {
+            "id": "ROA",
+            "name": "Roanoke Regional",
+            "coordinates": {
+                "latitude": 37.3256,
+                "longitude": -79.9756
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "SHD": {
+            "id": "SHD",
+            "name": "Shenandoah Valley Regional",
+            "coordinates": {
+                "latitude": 38.2633,
+                "longitude": -78.8967
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 2",
+            "secondaryIdentifier": "2"
+        },
+        "EDG": {
+            "id": "EDG",
+            "name": "Culpeper Regional",
+            "coordinates": {
+                "latitude": 38.4767,
+                "longitude": -77.9650
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "JYO": {
+            "id": "JYO",
+            "name": "Leesburg Executive",
+            "coordinates": {
+                "latitude": 39.0767,
+                "longitude": -77.5567
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "HEF": {
+            "id": "HEF",
+            "name": "Manassas Regional",
+            "coordinates": {
+                "latitude": 38.7217,
+                "longitude": -77.5150
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "EZF": {
+            "id": "EZF",
+            "name": "Shannon Airport",
+            "coordinates": {
+                "latitude": 38.9236,
+                "longitude": -77.9308
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "RMN": {
+            "id": "RMN",
+            "name": "Stafford Regional",
+            "coordinates": {
+                "latitude": 38.6419,
+                "longitude": -77.5022
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "HWY3": {
+            "id": "HWY3",
+            "name": "Warrenton-Fauquier",
+            "coordinates": {
+                "latitude": 38.5100,
+                "longitude": -77.8200
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "IAD": {
+            "id": "IAD",
+            "name": "Washington Dulles",
+            "coordinates": {
+                "latitude": 38.9442,
+                "longitude": -77.4567
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "DCA": {
+            "id": "DCA",
+            "name": "Washington National",
+            "coordinates": {
+                "latitude": 38.8508,
+                "longitude": -77.0403
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "OKV": {
+            "id": "OKV",
+            "name": "Winchester Regional",
+            "coordinates": {
+                "latitude": 39.1367,
+                "longitude": -78.1436
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 3",
+            "secondaryIdentifier": "3"
+        },
+        "FCI": {
+            "id": "FCI",
+            "name": "Chesterfield County",
+            "coordinates": {
+                "latitude": 37.4063,
+                "longitude": -77.5247
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 4",
+            "secondaryIdentifier": "4"
+        },
+        "OFP": {
+            "id": "OFP",
+            "name": "Hanover County Municipal",
+            "coordinates": {
+                "latitude": 37.7080,
+                "longitude": -77.4363
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 4",
+            "secondaryIdentifier": "4"
+        },
+        "7W4": {
+            "id": "7W4",
+            "name": "Lake Anna",
+            "coordinates": {
+                "latitude": 38.0938,
+                "longitude": -77.7904
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 4",
+            "secondaryIdentifier": "4"
+        },
+        "LKU": {
+            "id": "LKU",
+            "name": "Louisa County",
+            "coordinates": {
+                "latitude": 38.0098,
+                "longitude": -77.9702
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 4",
+            "secondaryIdentifier": "4"
+        },
+        "W96": {
+            "id": "W96",
+            "name": "New Kent County",
+            "coordinates": {
+                "latitude": 37.5025,
+                "longitude": -77.1246
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 4",
+            "secondaryIdentifier": "4"
+        },
+        "RIC": {
+            "id": "RIC",
+            "name": "Richmond International",
+            "coordinates": {
+                "latitude": 37.5052,
+                "longitude": -77.3197
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 4",
+            "secondaryIdentifier": "4"
+        },
+        "XSA": {
+            "id": "XSA",
+            "name": "Tappahannock-Essex County",
+            "coordinates": {
+                "latitude": 37.8598,
+                "longitude": -76.8942
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 4",
+            "secondaryIdentifier": "4"
+        },
+        "0V4": {
+            "id": "0V4",
+            "name": "Allen C. Perkinson Municipal",
+            "coordinates": {
+                "latitude": 37.1838,
+                "longitude": -79.3328
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "0V4": {
+            "id": "0V4",
+            "name": "Brookneal-Campbell County",
+            "coordinates": {
+                "latitude": 37.1838,
+                "longitude": -79.3328
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "W81": {
+            "id": "W81",
+            "name": "Crewe Municipal",
+            "coordinates": {
+                "latitude": 37.1773,
+                "longitude": -78.0999
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "DAN": {
+            "id": "DAN",
+            "name": "Danville Regional",
+            "coordinates": {
+                "latitude": 36.5729,
+                "longitude": -79.3361
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "PTB": {
+            "id": "PTB",
+            "name": "Dinwiddie County",
+            "coordinates": {
+                "latitude": 37.1838,
+                "longitude": -77.5074
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "W24": {
+            "id": "W24",
+            "name": "Falwell",
+            "coordinates": {
+                "latitude": 37.4215,
+                "longitude": -79.3328
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "FVX": {
+            "id": "FVX",
+            "name": "Farmville Regional",
+            "coordinates": {
+                "latitude": 37.3574,
+                "longitude": -78.4383
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "LYH": {
+            "id": "LYH",
+            "name": "Lynchburg Regional",
+            "coordinates": {
+                "latitude": 37.3267,
+                "longitude": -79.2004
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "W90": {
+            "id": "W90",
+            "name": "New London",
+            "coordinates": {
+                "latitude": 37.2704,
+                "longitude": -79.3328
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "W91": {
+            "id": "W91",
+            "name": "Smith Mountain Lake",
+            "coordinates": {
+                "latitude": 37.1047,
+                "longitude": -79.6147
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "5W5": {
+            "id": "5W5",
+            "name": "William M. Tuck",
+            "coordinates": {
+                "latitude": 36.7079,
+                "longitude": -78.8467
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 5",
+            "secondaryIdentifier": "5"
+        },
+        "CXE": {
+            "id": "CXE",
+            "name": "Chase City Municipal",
+            "coordinates": {
+                "latitude": 36.7873,
+                "longitude": -78.4994
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 6",
+            "secondaryIdentifier": "6"
+        },
+        "EMV": {
+            "id": "EMV",
+            "name": "Emporia-Greenville Regional",
+            "coordinates": {
+                "latitude": 36.6869,
+                "longitude": -77.4827
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 6",
+            "secondaryIdentifier": "6"
+        },
+        "FKN": {
+            "id": "FKN",
+            "name": "Franklin Municipal",
+            "coordinates": {
+                "latitude": 36.6981,
+                "longitude": -76.9037
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 6",
+            "secondaryIdentifier": "6"
+        },
+        "W63": {
+            "id": "W63",
+            "name": "Lake Country Regional",
+            "coordinates": {
+                "latitude": 36.7713,
+                "longitude": -78.3269
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 6",
+            "secondaryIdentifier": "6"
+        },
+        "LVL": {
+            "id": "LVL",
+            "name": "Lawrenceville-Brunswick Municipal",
+            "coordinates": {
+                "latitude": 36.7727,
+                "longitude": -77.7942
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 6",
+            "secondaryIdentifier": "6"
+        },
+        "W31": {
+            "id": "W31",
+            "name": "Lunenburg County",
+            "coordinates": {
+                "latitude": 36.9587,
+                "longitude": -78.1968
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 6",
+            "secondaryIdentifier": "6"
+        },
+        "AVC": {
+            "id": "AVC",
+            "name": "Mecklenburg-Brunswick Regional",
+            "coordinates": {
+                "latitude": 36.5883,
+                "longitude": -78.0438
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 6",
+            "secondaryIdentifier": "6"
+        },
+        "AKQ": {
+            "id": "AKQ",
+            "name": "Wakefield Municipal",
+            "coordinates": {
+                "latitude": 36.9873,
+                "longitude": -77.0005
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 6",
+            "secondaryIdentifier": "6"
+        },
+        "MFV": {
+            "id": "MFV",
+            "name": "Accomack County",
+            "coordinates": {
+                "latitude": 37.6469,
+                "longitude": -75.7613
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "CPK": {
+            "id": "CPK",
+            "name": "Chesapeake Regional",
+            "coordinates": {
+                "latitude": 36.6652,
+                "longitude": -76.3205
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "PVG": {
+            "id": "PVG",
+            "name": "Hampton Roads Executive",
+            "coordinates": {
+                "latitude": 36.7804,
+                "longitude": -76.4478
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "W75": {
+            "id": "W75",
+            "name": "Hummel Field",
+            "coordinates": {
+                "latitude": 37.5135,
+                "longitude": -76.4628
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "W94": {
+            "id": "W94",
+            "name": "Middle Peninsula Regional",
+            "coordinates": {
+                "latitude": 37.5211,
+                "longitude": -76.7653
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "PHF": {
+            "id": "PHF",
+            "name": "Newport News/Williamsburg International",
+            "coordinates": {
+                "latitude": 37.1319,
+                "longitude": -76.4929
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "ORF": {
+            "id": "ORF",
+            "name": "Norfolk International",
+            "coordinates": {
+                "latitude": 36.8946,
+                "longitude": -76.2012
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "SFQ": {
+            "id": "SFQ",
+            "name": "Suffolk Executive",
+            "coordinates": {
+                "latitude": 36.6824,
+                "longitude": -76.6019
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "TGI": {
+            "id": "TGI",
+            "name": "Tangier Island",
+            "coordinates": {
+                "latitude": 37.8270,
+                "longitude": -75.9996
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "JGG": {
+            "id": "JGG",
+            "name": "Williamsburg-Jamestown",
+            "coordinates": {
+                "latitude": 37.2393,
+                "longitude": -76.7157
+            },
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "Region 7",
+            "secondaryIdentifier": "7"
+        },
+        "M01": {
+            "id": "M01",
+            "name": "Air Power Park",
+            "coordinates": {
+                "latitude": 37.1354,
+                "longitude": -76.4936
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        },
+        "M02": {
+            "id": "M02",
+            "name": "Military Aviation Museum",
+            "coordinates": {
+                "latitude": 36.6752,
+                "longitude": -76.0192
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        },
+        "M03": {
+            "id": "M03",
+            "name": "Steven F. Udvar-Hazy Center (NASM)",
+            "coordinates": {
+                "latitude": 38.9105,
+                "longitude": -77.4436
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        },
+        "M04": {
+            "id": "M04",
+            "name": "National Museum of the Marine Corps",
+            "coordinates": {
+                "latitude": 38.5400,
+                "longitude": -77.3373
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        },
+        "M05": {
+            "id": "M05",
+            "name": "Science Museum of Virginia",
+            "coordinates": {
+                "latitude": 37.5603,
+                "longitude": -77.4671
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        },
+        "M06": {
+            "id": "M06",
+            "name": "Shannon Air Museum",
+            "coordinates": {
+                "latitude": 38.2636,
+                "longitude": -77.4512
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        },
+        "M07": {
+            "id": "M07",
+            "name": "U.S. Army Transportation Museum",
+            "coordinates": {
+                "latitude": 37.1522,
+                "longitude": -76.6204
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        },
+        "M08": {
+            "id": "M08",
+            "name": "Virginia Air and Space Center",
+            "coordinates": {
+                "latitude": 37.0194,
+                "longitude": -76.3453
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        },
+        "M09": {
+            "id": "M09",
+            "name": "Virginia Museum of Transportation",
+            "coordinates": {
+                "latitude": 37.2721,
+                "longitude": -79.9414
+            },
+            "type": "museum",
+            "icon": "building.columns",
+            "notes": "",
+            "secondaryIdentifier": "s"
+        }
+    }
+}
