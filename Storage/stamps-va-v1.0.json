@@ -1,36 +1,42 @@
 {
     "stamps": {
-        "EBG": {
-            "id": "EBG",
-            "name": "Blue Ridge Regional",
+        "MTV": {
+            "id": "MTV",
+            "name": "Blue Ridge Regional Airport",
             "coordinates": {
-                "latitude": 36.7470,
-                "longitude": -82.4017
+                "latitude": 36.6307525,
+                "longitude": -80.0183383
             },
+            "elevation": 940.9,
+            "length": 5002,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
             "secondaryIdentifier": "1"
         },
-        "NDY": {
-            "id": "NDY",
-            "name": "Grundy Municipal",
+        "GDY": {
+            "id": "GDY",
+            "name": "Grundy Municipal Airport",
             "coordinates": {
-                "latitude": 37.2667,
-                "longitude": -82.1000
+                "latitude": 37.2325,
+                "longitude": -82.125
             },
+            "elevation": 2304,
+            "length": 2256,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
             "secondaryIdentifier": "1"
         },
-        "BYW": {
-            "id": "BYW",
-            "name": "Lee County",
+        "0VG": {
+            "id": "0VG",
+            "name": "Lee County Airport",
             "coordinates": {
-                "latitude": 36.7001,
-                "longitude": -83.3808
+                "latitude": 36.6540850,
+                "longitude": -83.2178467
             },
+            "elevation": 1410.9,
+            "length": 5003,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
@@ -38,11 +44,13 @@
         },
         "LNP": {
             "id": "LNP",
-            "name": "Lonesome Pine",
+            "name": "Lonesome Pine Airport",
             "coordinates": {
-                "latitude": 36.7408,
-                "longitude": -82.8628
+                "latitude": 36.9875178,
+                "longitude": -82.5299975
             },
+            "elevation": 2684.3,
+            "length": 5280,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
@@ -50,11 +58,13 @@
         },
         "MKJ": {
             "id": "MKJ",
-            "name": "Mountain Empire",
+            "name": "Mountain Empire Airport",
             "coordinates": {
-                "latitude": 36.9003,
-                "longitude": -82.0873
+                "latitude": 36.8948489,
+                "longitude": -81.3499461
             },
+            "elevation": 2558.2,
+            "length": 5252,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
@@ -62,23 +72,27 @@
         },
         "PSK": {
             "id": "PSK",
-            "name": "New River Valley",
+            "name": "New River Valley Airport",
             "coordinates": {
-                "latitude": 37.1359,
-                "longitude": -80.6767
+                "latitude": 37.1373364,
+                "longitude": -80.6784794
             },
+            "elevation": 2104.5,
+            "length": 6201,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
             "secondaryIdentifier": "1"
         },
-        "TZA": {
-            "id": "TZA",
-            "name": "Tazewell County",
+        "JFZ": {
+            "id": "JFZ",
+            "name": "Tazewell County Airport",
             "coordinates": {
-                "latitude": 37.1019,
-                "longitude": -81.5031
+                "latitude": 37.0637464,
+                "longitude": -81.7982658
             },
+            "elevation": 2653.1,
+            "length": 4299,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
@@ -86,11 +100,13 @@
         },
         "HLX": {
             "id": "HLX",
-            "name": "Twin County",
+            "name": "Twin County Airport",
             "coordinates": {
-                "latitude": 36.6932,
-                "longitude": -82.0139
+                "latitude": 36.7661108,
+                "longitude": -80.8235600
             },
+            "elevation": 2693.6,
+            "length": 4299,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
@@ -98,11 +114,13 @@
         },
         "VJI": {
             "id": "VJI",
-            "name": "Virginia Highlands",
+            "name": "Virginia Highlands Airport",
             "coordinates": {
-                "latitude": 36.6900,
-                "longitude": -82.0300
+                "latitude": 36.6871025,
+                "longitude": -82.0333267
             },
+            "elevation": 2087.4,
+            "length": 4471,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
@@ -110,23 +128,27 @@
         },
         "BCB": {
             "id": "BCB",
-            "name": "Virginia Tech/Montgomery Executive",
+            "name": "Virginia Tech/Montgomery Executive Airport",
             "coordinates": {
-                "latitude": 37.1942,
-                "longitude": -80.4075
+                "latitude": 37.2093867,
+                "longitude": -80.4120900
             },
+            "elevation": 2119.5,
+            "length": 5501,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 1",
             "secondaryIdentifier": "1"
         },
-        "BVA": {
-            "id": "BVA",
+        "VBW": {
+            "id": "VBW",
             "name": "Bridgewater Air Park",
             "coordinates": {
-                "latitude": 38.3547,
-                "longitude": -79.0089
+                "latitude": 38.3667375,
+                "longitude": -78.9603342
             },
+            "elevation": 1165,
+            "length": 2745,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
@@ -887,6 +909,54 @@
             "icon": "building.columns",
             "notes": "",
             "secondaryIdentifier": "s"
+        },
+        "T01": {
+            "id": "T01",
+            "name": "Jared's House",
+            "coordinates": {
+                "latitude": 37.2721,
+                "longitude": -79.9414
+            },
+            "type": "test",
+            "icon": "hammer",
+            "notes": "",
+            "secondaryIdentifier": "t"
+        },
+        "T02": {
+            "id": "T02",
+            "name": "Delta Office (RIC)",
+            "coordinates": {
+                "latitude": 37.2721,
+                "longitude": -79.9414
+            },
+            "type": "test",
+            "icon": "hammer",
+            "notes": "",
+            "secondaryIdentifier": "t"
+        },
+        "T03": {
+            "id": "T03",
+            "name": "Delta Office (RAL)",
+            "coordinates": {
+                "latitude": 37.2721,
+                "longitude": -79.9414
+            },
+            "type": "test",
+            "icon": "hammer",
+            "notes": "",
+            "secondaryIdentifier": "t"
+        },
+        "T04": {
+            "id": "T04",
+            "name": "Delta Office (CLT)",
+            "coordinates": {
+                "latitude": 37.2721,
+                "longitude": -79.9414
+            },
+            "type": "test",
+            "icon": "hammer",
+            "notes": "",
+            "secondaryIdentifier": "t"
         }
     }
 }
