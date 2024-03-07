@@ -14,20 +14,6 @@
             "notes": "Region 1",
             "secondaryIdentifier": "1"
         },
-        "GDY": {
-            "id": "GDY",
-            "name": "Grundy Municipal Airport",
-            "coordinates": {
-                "latitude": 37.2325,
-                "longitude": -82.125
-            },
-            "elevation": 2304,
-            "length": 2256,
-            "type": "airport",
-            "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
-        },
         "0VG": {
             "id": "0VG",
             "name": "Lee County Airport",
@@ -156,11 +142,13 @@
         },
         "CHO": {
             "id": "CHO",
-            "name": "Charlottesville Albemarle Airport",
+            "name": "Charlottesville-Albemarle Airport",
             "coordinates": {
-                "latitude": 38.1386,
-                "longitude": -78.4529
+                "latitude": 38.1396428,
+                "longitude": -78.4523442
             },
+            "elevation": 640.1,
+            "length": 6801,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
@@ -168,11 +156,13 @@
         },
         "FRR": {
             "id": "FRR",
-            "name": "Front Royal-Warren County",
+            "name": "Front Royal-Warren County Airport",
             "coordinates": {
-                "latitude": 38.9167,
-                "longitude": -78.2500
+                "latitude": 38.9175122,
+                "longitude": -78.2533733
             },
+            "elevation": 703.6,
+            "length": 3008,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
@@ -180,23 +170,27 @@
         },
         "GVE": {
             "id": "GVE",
-            "name": "Gordonsville Municipal",
+            "name": "Gordonsville Municipal Airport",
             "coordinates": {
-                "latitude": 38.1117,
-                "longitude": -78.1667
+                "latitude": 38.1559961,
+                "longitude": -78.1657800
             },
+            "elevation": 454,
+            "length": 2300,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
             "secondaryIdentifier": "2"
         },
-        "HWY": {
-            "id": "HWY",
-            "name": "Ingalls Field",
+        "HSP": {
+            "id": "HSP",
+            "name": "Ingalls Field Airport",
             "coordinates": {
-                "latitude": 38.0667,
-                "longitude": -78.5000
+                "latitude": 37.9514444,
+                "longitude": -79.8338944
             },
+            "elevation": 3792.7,
+            "length": 5600,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
@@ -204,35 +198,41 @@
         },
         "LUA": {
             "id": "LUA",
-            "name": "Luray Caverns",
+            "name": "Luray Caverns Airport",
             "coordinates": {
-                "latitude": 38.6667,
-                "longitude": -78.5000
+                "latitude": 38.6667105,
+                "longitude": -78.5008350
             },
+            "elevation": 902.4,
+            "length": 3126,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
             "secondaryIdentifier": "2"
         },
-        "99V": {
-            "id": "99V",
-            "name": "New Market",
+        "8W2": {
+            "id": "8W2",
+            "name": "New Market Airport",
             "coordinates": {
-                "latitude": 38.6417,
-                "longitude": -78.6767
+                "latitude": 38.6559847,
+                "longitude": -78.7084958
             },
+            "elevation": 962.7,
+            "length": 2920,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
             "secondaryIdentifier": "2"
         },
-        "ONG": {
-            "id": "ONG",
-            "name": "Orange County",
+        "OMH": {
+            "id": "OMH",
+            "name": "Orange County Airport",
             "coordinates": {
-                "latitude": 38.2433,
-                "longitude": -77.9867
+                "latitude": 38.2472028,
+                "longitude": -78.0456211
             },
+            "elevation": 464.4,
+            "length": 3200,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
@@ -240,11 +240,13 @@
         },
         "ROA": {
             "id": "ROA",
-            "name": "Roanoke Regional",
+            "name": "Roanoke-Blacksburg Regional Airport",
             "coordinates": {
-                "latitude": 37.3256,
-                "longitude": -79.9756
+                "latitude": 37.3254722,
+                "longitude": -79.9754167
             },
+            "elevation": 1175.2,
+            "length": 6800,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
@@ -252,23 +254,27 @@
         },
         "SHD": {
             "id": "SHD",
-            "name": "Shenandoah Valley Regional",
+            "name": "Shenandoah Valley Regional Airport",
             "coordinates": {
-                "latitude": 38.2633,
-                "longitude": -78.8967
+                "latitude": 38.2638333,
+                "longitude": -78.8964444
             },
+            "elevation": 1201,
+            "length": 6002,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 2",
             "secondaryIdentifier": "2"
         },
-        "EDG": {
-            "id": "EDG",
-            "name": "Culpeper Regional",
+        "CJR": {
+            "id": "CJR",
+            "name": "Culpeper Regional Airport",
             "coordinates": {
-                "latitude": 38.4767,
-                "longitude": -77.9650
+                "latitude": 38.5254722,
+                "longitude": -77.8596389
             },
+            "elevation": 315.5,
+            "length": 5000,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
@@ -276,11 +282,13 @@
         },
         "JYO": {
             "id": "JYO",
-            "name": "Leesburg Executive",
+            "name": "Leesburg Executive Airport",
             "coordinates": {
-                "latitude": 39.0767,
-                "longitude": -77.5567
+                "latitude": 39.077965,
+                "longitude": -77.557500
             },
+            "elevation": 389.5,
+            "length": 5500,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
@@ -288,11 +296,13 @@
         },
         "HEF": {
             "id": "HEF",
-            "name": "Manassas Regional",
+            "name": "Manassas Regional Airport",
             "coordinates": {
-                "latitude": 38.7217,
-                "longitude": -77.5150
+                "latitude": 38.7210247,
+                "longitude": -77.5151047
             },
+            "elevation": 192.2,
+            "length": 6200,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
@@ -302,9 +312,11 @@
             "id": "EZF",
             "name": "Shannon Airport",
             "coordinates": {
-                "latitude": 38.9236,
-                "longitude": -77.9308
+                "latitude": 38.2668953,
+                "longitude": -77.4492403
             },
+            "elevation": 85,
+            "length": 2902,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
@@ -312,23 +324,27 @@
         },
         "RMN": {
             "id": "RMN",
-            "name": "Stafford Regional",
+            "name": "Stafford Regional Airport",
             "coordinates": {
-                "latitude": 38.6419,
-                "longitude": -77.5022
+                "latitude": 38.3981111,
+                "longitude": -77.4554722
             },
+            "elevation": 211.2,
+            "length": 5000,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
             "secondaryIdentifier": "3"
         },
-        "HWY3": {
-            "id": "HWY3",
-            "name": "Warrenton-Fauquier",
+        "HWY": {
+            "id": "HWY",
+            "name": "Warrenton-Fauquier Airport",
             "coordinates": {
-                "latitude": 38.5100,
-                "longitude": -77.8200
+                "latitude": 38.5862853,
+                "longitude": -77.7106308
             },
+            "elevation": 336.2,
+            "length": 5000,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
@@ -336,11 +352,13 @@
         },
         "IAD": {
             "id": "IAD",
-            "name": "Washington Dulles",
+            "name": "Washington Dulles International Airport",
             "coordinates": {
-                "latitude": 38.9442,
-                "longitude": -77.4567
+                "latitude": 38.9474564,
+                "longitude": -77.4599286
             },
+            "elevation": 312.3,
+            "length": 11500,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
@@ -348,11 +366,13 @@
         },
         "DCA": {
             "id": "DCA",
-            "name": "Washington National",
+            "name": "Ronald Reagan Washington National Airport",
             "coordinates": {
-                "latitude": 38.8508,
-                "longitude": -77.0403
+                "latitude": 38.8514403,
+                "longitude": -77.0377214
             },
+            "elevation": 14.1,
+            "length": 7169,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
@@ -360,16 +380,23 @@
         },
         "OKV": {
             "id": "OKV",
-            "name": "Winchester Regional",
+            "name": "Winchester Regional Airport",
             "coordinates": {
-                "latitude": 39.1367,
-                "longitude": -78.1436
+                "latitude": 39.1435278,
+                "longitude": -78.1444444
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 3",
             "secondaryIdentifier": "3"
         },
+        
+        
+        
+        
+        
         "FCI": {
             "id": "FCI",
             "name": "Chesterfield County",
@@ -377,6 +404,8 @@
                 "latitude": 37.4063,
                 "longitude": -77.5247
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 4",
@@ -389,6 +418,8 @@
                 "latitude": 37.7080,
                 "longitude": -77.4363
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 4",
@@ -401,6 +432,8 @@
                 "latitude": 38.0938,
                 "longitude": -77.7904
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 4",
@@ -413,6 +446,8 @@
                 "latitude": 38.0098,
                 "longitude": -77.9702
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 4",
@@ -425,6 +460,8 @@
                 "latitude": 37.5025,
                 "longitude": -77.1246
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 4",
@@ -437,6 +474,8 @@
                 "latitude": 37.5052,
                 "longitude": -77.3197
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 4",
@@ -449,6 +488,8 @@
                 "latitude": 37.8598,
                 "longitude": -76.8942
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 4",
@@ -461,6 +502,8 @@
                 "latitude": 37.1838,
                 "longitude": -79.3328
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -473,6 +516,8 @@
                 "latitude": 37.1838,
                 "longitude": -79.3328
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -485,6 +530,8 @@
                 "latitude": 37.1773,
                 "longitude": -78.0999
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -497,6 +544,8 @@
                 "latitude": 36.5729,
                 "longitude": -79.3361
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -509,6 +558,8 @@
                 "latitude": 37.1838,
                 "longitude": -77.5074
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -521,6 +572,8 @@
                 "latitude": 37.4215,
                 "longitude": -79.3328
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -533,6 +586,8 @@
                 "latitude": 37.3574,
                 "longitude": -78.4383
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -545,6 +600,8 @@
                 "latitude": 37.3267,
                 "longitude": -79.2004
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -557,6 +614,8 @@
                 "latitude": 37.2704,
                 "longitude": -79.3328
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -569,6 +628,8 @@
                 "latitude": 37.1047,
                 "longitude": -79.6147
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -581,6 +642,8 @@
                 "latitude": 36.7079,
                 "longitude": -78.8467
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 5",
@@ -593,6 +656,8 @@
                 "latitude": 36.7873,
                 "longitude": -78.4994
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 6",
@@ -605,6 +670,8 @@
                 "latitude": 36.6869,
                 "longitude": -77.4827
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 6",
@@ -617,6 +684,8 @@
                 "latitude": 36.6981,
                 "longitude": -76.9037
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 6",
@@ -629,6 +698,8 @@
                 "latitude": 36.7713,
                 "longitude": -78.3269
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 6",
@@ -641,6 +712,8 @@
                 "latitude": 36.7727,
                 "longitude": -77.7942
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 6",
@@ -653,6 +726,8 @@
                 "latitude": 36.9587,
                 "longitude": -78.1968
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 6",
@@ -665,6 +740,8 @@
                 "latitude": 36.5883,
                 "longitude": -78.0438
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 6",
@@ -677,6 +754,8 @@
                 "latitude": 36.9873,
                 "longitude": -77.0005
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 6",
@@ -689,6 +768,8 @@
                 "latitude": 37.6469,
                 "longitude": -75.7613
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -701,6 +782,8 @@
                 "latitude": 36.6652,
                 "longitude": -76.3205
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -713,6 +796,8 @@
                 "latitude": 36.7804,
                 "longitude": -76.4478
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -725,6 +810,8 @@
                 "latitude": 37.5135,
                 "longitude": -76.4628
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -737,6 +824,8 @@
                 "latitude": 37.5211,
                 "longitude": -76.7653
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -749,6 +838,8 @@
                 "latitude": 37.1319,
                 "longitude": -76.4929
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -761,6 +852,8 @@
                 "latitude": 36.8946,
                 "longitude": -76.2012
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -773,6 +866,8 @@
                 "latitude": 36.6824,
                 "longitude": -76.6019
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -785,6 +880,8 @@
                 "latitude": 37.8270,
                 "longitude": -75.9996
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -797,6 +894,8 @@
                 "latitude": 37.2393,
                 "longitude": -76.7157
             },
+            "elevation": 726.2,
+            "length": 5498,
             "type": "airport",
             "icon": "airplane",
             "notes": "Region 7",
@@ -806,14 +905,20 @@
             "id": "M01",
             "name": "Air Power Park",
             "coordinates": {
-                "latitude": 37.1354,
-                "longitude": -76.4936
+                "latitude": 37.043270,
+                "longitude": -76.366348
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
             "secondaryIdentifier": "s"
         },
+        
+        
+        
+        
         "M02": {
             "id": "M02",
             "name": "Military Aviation Museum",
@@ -821,6 +926,8 @@
                 "latitude": 36.6752,
                 "longitude": -76.0192
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
@@ -833,6 +940,8 @@
                 "latitude": 38.9105,
                 "longitude": -77.4436
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
@@ -845,6 +954,8 @@
                 "latitude": 38.5400,
                 "longitude": -77.3373
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
@@ -857,6 +968,8 @@
                 "latitude": 37.5603,
                 "longitude": -77.4671
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
@@ -869,6 +982,8 @@
                 "latitude": 38.2636,
                 "longitude": -77.4512
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
@@ -881,6 +996,8 @@
                 "latitude": 37.1522,
                 "longitude": -76.6204
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
@@ -893,6 +1010,8 @@
                 "latitude": 37.0194,
                 "longitude": -76.3453
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
@@ -905,6 +1024,8 @@
                 "latitude": 37.2721,
                 "longitude": -79.9414
             },
+            "elevation": 0,
+            "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
@@ -914,9 +1035,11 @@
             "id": "T01",
             "name": "Jared's House",
             "coordinates": {
-                "latitude": 37.2721,
-                "longitude": -79.9414
+                "latitude": 35.224140,
+                "longitude": -80.808580
             },
+            "elevation": 1000,
+            "length": 6000,
             "type": "test",
             "icon": "hammer",
             "notes": "",
@@ -926,9 +1049,11 @@
             "id": "T02",
             "name": "Delta Office (RIC)",
             "coordinates": {
-                "latitude": 37.2721,
-                "longitude": -79.9414
+                "latitude": 37.527470,
+                "longitude": -77.613370
             },
+            "elevation": 1000,
+            "length": 6000,
             "type": "test",
             "icon": "hammer",
             "notes": "",
@@ -938,9 +1063,11 @@
             "id": "T03",
             "name": "Delta Office (RAL)",
             "coordinates": {
-                "latitude": 37.2721,
-                "longitude": -79.9414
+                "latitude": 35.869690,
+                "longitude": -78.789430
             },
+            "elevation": 1000,
+            "length": 6000,
             "type": "test",
             "icon": "hammer",
             "notes": "",
@@ -950,9 +1077,11 @@
             "id": "T04",
             "name": "Delta Office (CLT)",
             "coordinates": {
-                "latitude": 37.2721,
-                "longitude": -79.9414
+                "latitude": 35.085240,
+                "longitude": -80.848240
             },
+            "elevation": 1000,
+            "length": 6000,
             "type": "test",
             "icon": "hammer",
             "notes": "",
