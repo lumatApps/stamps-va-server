@@ -2,6 +2,7 @@
     "stamps": {
         "MTV": {
             "id": "MTV",
+            "secondaryIdentifier": "1",
             "name": "Blue Ridge Regional Airport",
             "coordinates": {
                 "latitude": 36.6307525,
@@ -11,11 +12,12 @@
             "length": 5002,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "0VG": {
             "id": "0VG",
+            "secondaryIdentifier": "1",
             "name": "Lee County Airport",
             "coordinates": {
                 "latitude": 36.6540850,
@@ -25,11 +27,12 @@
             "length": 5003,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "LNP": {
             "id": "LNP",
+            "secondaryIdentifier": "1",
             "name": "Lonesome Pine Airport",
             "coordinates": {
                 "latitude": 36.9875178,
@@ -39,11 +42,12 @@
             "length": 5280,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "MKJ": {
             "id": "MKJ",
+            "secondaryIdentifier": "1",
             "name": "Mountain Empire Airport",
             "coordinates": {
                 "latitude": 36.8948489,
@@ -53,11 +57,12 @@
             "length": 5252,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "PSK": {
             "id": "PSK",
+            "secondaryIdentifier": "1",
             "name": "New River Valley Airport",
             "coordinates": {
                 "latitude": 37.1373364,
@@ -67,11 +72,12 @@
             "length": 6201,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "JFZ": {
             "id": "JFZ",
+            "secondaryIdentifier": "1",
             "name": "Tazewell County Airport",
             "coordinates": {
                 "latitude": 37.0637464,
@@ -81,11 +87,12 @@
             "length": 4299,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "HLX": {
             "id": "HLX",
+            "secondaryIdentifier": "1",
             "name": "Twin County Airport",
             "coordinates": {
                 "latitude": 36.7661108,
@@ -95,11 +102,12 @@
             "length": 4299,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "VJI": {
             "id": "VJI",
+            "secondaryIdentifier": "1",
             "name": "Virginia Highlands Airport",
             "coordinates": {
                 "latitude": 36.6871025,
@@ -109,11 +117,12 @@
             "length": 4471,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "BCB": {
             "id": "BCB",
+            "secondaryIdentifier": "1",
             "name": "Virginia Tech/Montgomery Executive Airport",
             "coordinates": {
                 "latitude": 37.2093867,
@@ -123,11 +132,12 @@
             "length": 5501,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 1",
-            "secondaryIdentifier": "1"
+            "notes": "",
+            "alert": ""
         },
         "VBW": {
             "id": "VBW",
+            "secondaryIdentifier": "2",
             "name": "Bridgewater Air Park",
             "coordinates": {
                 "latitude": 38.3667375,
@@ -137,11 +147,12 @@
             "length": 2745,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "CHO": {
             "id": "CHO",
+            "secondaryIdentifier": "2",
             "name": "Charlottesville-Albemarle Airport",
             "coordinates": {
                 "latitude": 38.1396428,
@@ -151,11 +162,27 @@
             "length": 6801,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
+        },
+        "W13": {
+            "id": "W13",
+            "secondaryIdentifier": "2",
+            "name": "Eagles Nest Airport",
+            "coordinates": {
+                "latitude": 38.0769375,
+                "longitude": -78.9444375
+            },
+            "elevation": 1436,
+            "length": 2004,
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "",
+            "alert": ""
         },
         "FRR": {
             "id": "FRR",
+            "secondaryIdentifier": "2",
             "name": "Front Royal-Warren County Airport",
             "coordinates": {
                 "latitude": 38.9175122,
@@ -165,11 +192,12 @@
             "length": 3008,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "GVE": {
             "id": "GVE",
+            "secondaryIdentifier": "2",
             "name": "Gordonsville Municipal Airport",
             "coordinates": {
                 "latitude": 38.1559961,
@@ -179,11 +207,12 @@
             "length": 2300,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "HSP": {
             "id": "HSP",
+            "secondaryIdentifier": "2",
             "name": "Ingalls Field Airport",
             "coordinates": {
                 "latitude": 37.9514444,
@@ -193,11 +222,12 @@
             "length": 5600,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "LUA": {
             "id": "LUA",
+            "secondaryIdentifier": "2",
             "name": "Luray Caverns Airport",
             "coordinates": {
                 "latitude": 38.6667105,
@@ -207,11 +237,12 @@
             "length": 3126,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "8W2": {
             "id": "8W2",
+            "secondaryIdentifier": "2",
             "name": "New Market Airport",
             "coordinates": {
                 "latitude": 38.6559847,
@@ -221,11 +252,12 @@
             "length": 2920,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "OMH": {
             "id": "OMH",
+            "secondaryIdentifier": "2",
             "name": "Orange County Airport",
             "coordinates": {
                 "latitude": 38.2472028,
@@ -235,11 +267,12 @@
             "length": 3200,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "ROA": {
             "id": "ROA",
+            "secondaryIdentifier": "2",
             "name": "Roanoke-Blacksburg Regional Airport",
             "coordinates": {
                 "latitude": 37.3254722,
@@ -249,11 +282,12 @@
             "length": 6800,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "SHD": {
             "id": "SHD",
+            "secondaryIdentifier": "2",
             "name": "Shenandoah Valley Regional Airport",
             "coordinates": {
                 "latitude": 38.2638333,
@@ -263,11 +297,12 @@
             "length": 6002,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 2",
-            "secondaryIdentifier": "2"
+            "notes": "",
+            "alert": ""
         },
         "CJR": {
             "id": "CJR",
+            "secondaryIdentifier": "3",
             "name": "Culpeper Regional Airport",
             "coordinates": {
                 "latitude": 38.5254722,
@@ -277,11 +312,12 @@
             "length": 5000,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
         "JYO": {
             "id": "JYO",
+            "secondaryIdentifier": "3",
             "name": "Leesburg Executive Airport",
             "coordinates": {
                 "latitude": 39.077965,
@@ -291,11 +327,12 @@
             "length": 5500,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
         "HEF": {
             "id": "HEF",
+            "secondaryIdentifier": "3",
             "name": "Manassas Regional Airport",
             "coordinates": {
                 "latitude": 38.7210247,
@@ -305,11 +342,12 @@
             "length": 6200,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
         "EZF": {
             "id": "EZF",
+            "secondaryIdentifier": "3",
             "name": "Shannon Airport",
             "coordinates": {
                 "latitude": 38.2668953,
@@ -319,11 +357,12 @@
             "length": 2902,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
         "RMN": {
             "id": "RMN",
+            "secondaryIdentifier": "3",
             "name": "Stafford Regional Airport",
             "coordinates": {
                 "latitude": 38.3981111,
@@ -333,11 +372,12 @@
             "length": 5000,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
         "HWY": {
             "id": "HWY",
+            "secondaryIdentifier": "3",
             "name": "Warrenton-Fauquier Airport",
             "coordinates": {
                 "latitude": 38.5862853,
@@ -347,11 +387,12 @@
             "length": 5000,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
         "IAD": {
             "id": "IAD",
+            "secondaryIdentifier": "3",
             "name": "Washington Dulles International Airport",
             "coordinates": {
                 "latitude": 38.9474564,
@@ -361,11 +402,12 @@
             "length": 11500,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
         "DCA": {
             "id": "DCA",
+            "secondaryIdentifier": "3",
             "name": "Ronald Reagan Washington National Airport",
             "coordinates": {
                 "latitude": 38.8514403,
@@ -375,11 +417,12 @@
             "length": 7169,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
         "OKV": {
             "id": "OKV",
+            "secondaryIdentifier": "3",
             "name": "Winchester Regional Airport",
             "coordinates": {
                 "latitude": 39.1435278,
@@ -389,520 +432,552 @@
             "length": 5498,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 3",
-            "secondaryIdentifier": "3"
+            "notes": "",
+            "alert": ""
         },
-        
-        
-        
-        
-        
         "FCI": {
             "id": "FCI",
-            "name": "Chesterfield County",
+            "secondaryIdentifier": "4",
+            "name": "Chesterfield County Airport",
             "coordinates": {
-                "latitude": 37.4063,
-                "longitude": -77.5247
+                "latitude": 37.4064444,
+                "longitude": -77.5248333
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 236.1,
+            "length": 5500,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 4",
-            "secondaryIdentifier": "4"
+            "notes": "",
+            "alert": ""
         },
         "OFP": {
             "id": "OFP",
-            "name": "Hanover County Municipal",
+            "secondaryIdentifier": "4",
+            "name": "Hanover County Municipal Airport",
             "coordinates": {
-                "latitude": 37.7080,
-                "longitude": -77.4363
+                "latitude": 37.7089444,
+                "longitude": -77.4366389
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 206.5,
+            "length": 5402,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 4",
-            "secondaryIdentifier": "4"
+            "notes": "",
+            "alert": ""
         },
         "7W4": {
             "id": "7W4",
-            "name": "Lake Anna",
+            "secondaryIdentifier": "4",
+            "name": "Lake Anna Airport",
             "coordinates": {
                 "latitude": 38.0938,
                 "longitude": -77.7904
             },
-            "elevation": 726.2,
+            "elevation": 351.2,
             "length": 5498,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 4",
-            "secondaryIdentifier": "4"
+            "notes": "",
+            "alert": ""
         },
         "LKU": {
             "id": "LKU",
+            "secondaryIdentifier": "4",
             "name": "Louisa County",
             "coordinates": {
-                "latitude": 38.0098,
-                "longitude": -77.9702
+                "latitude": 37.9658194,
+                "longitude": -77.7459028
             },
             "elevation": 726.2,
-            "length": 5498,
+            "length": 2558,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 4",
-            "secondaryIdentifier": "4"
+            "notes": "",
+            "alert": ""
         },
         "W96": {
             "id": "W96",
-            "name": "New Kent County",
+            "secondaryIdentifier": "4",
+            "name": "New Kent County Airport",
             "coordinates": {
-                "latitude": 37.5025,
-                "longitude": -77.1246
+                "latitude": 37.5034294,
+                "longitude": -77.1265583
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 120.7,
+            "length": 3602,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 4",
-            "secondaryIdentifier": "4"
+            "notes": "",
+            "alert": ""
         },
         "RIC": {
             "id": "RIC",
-            "name": "Richmond International",
+            "secondaryIdentifier": "4",
+            "name": "Richmond International Airport",
             "coordinates": {
-                "latitude": 37.5052,
-                "longitude": -77.3197
+                "latitude": 37.5051811,
+                "longitude": -77.3197386
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 167.5,
+            "length": 9003,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 4",
-            "secondaryIdentifier": "4"
+            "notes": "",
+            "alert": ""
         },
         "XSA": {
             "id": "XSA",
-            "name": "Tappahannock-Essex County",
+            "secondaryIdentifier": "4",
+            "name": "Tappahannock-Essex County Airport",
             "coordinates": {
-                "latitude": 37.8598,
-                "longitude": -76.8942
+                "latitude": 37.8596092,
+                "longitude": -76.8941194
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 135.2,
+            "length": 4300,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 4",
-            "secondaryIdentifier": "4"
+            "notes": "",
+            "alert": ""
+        },
+        "BKT": {
+            "id": "BKT",
+            "secondaryIdentifier": "5",
+            "name": "Allen C. Perkinson Municipal Airport",
+            "coordinates": {
+                "latitude": 37.0747673,
+                "longitude": -77.9565984
+            },
+            "elevation": 437.4,
+            "length": 5333,
+            "type": "airport",
+            "icon": "airplane",
+            "notes": "",
+            "alert": ""
         },
         "0V4": {
             "id": "0V4",
-            "name": "Allen C. Perkinson Municipal",
+            "secondaryIdentifier": "5",
+            "name": "Brookneal-Campbell County Airport",
             "coordinates": {
-                "latitude": 37.1838,
-                "longitude": -79.3328
+                "latitude": 37.1417222,
+                "longitude": -79.0163889
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 596.6,
+            "length": 3798,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
-        },
-        "0V4": {
-            "id": "0V4",
-            "name": "Brookneal-Campbell County",
-            "coordinates": {
-                "latitude": 37.1838,
-                "longitude": -79.3328
-            },
-            "elevation": 726.2,
-            "length": 5498,
-            "type": "airport",
-            "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "W81": {
             "id": "W81",
-            "name": "Crewe Municipal",
+            "secondaryIdentifier": "5",
+            "name": "Crewe Municipal Airport",
             "coordinates": {
-                "latitude": 37.1773,
-                "longitude": -78.0999
+                "latitude": 37.1810122,
+                "longitude": -78.0984747
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 422,
+            "length": 3300,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "DAN": {
             "id": "DAN",
-            "name": "Danville Regional",
+            "secondaryIdentifier": "5",
+            "name": "Danville Regional Airport",
             "coordinates": {
-                "latitude": 36.5729,
-                "longitude": -79.3361
+                "latitude": 36.5724722,
+                "longitude": -79.3362500
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 571.1,
+            "length": 5900,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "PTB": {
             "id": "PTB",
-            "name": "Dinwiddie County",
+            "secondaryIdentifier": "5",
+            "name": "Dinwiddie County Airport",
             "coordinates": {
-                "latitude": 37.1838,
-                "longitude": -77.5074
+                "latitude": 37.1843014,
+                "longitude": -77.5061744
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 192.7,
+            "length": 5002,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "W24": {
             "id": "W24",
-            "name": "Falwell",
+            "secondaryIdentifier": "5",
+            "name": "Falwell Airport",
             "coordinates": {
-                "latitude": 37.4215,
-                "longitude": -79.3328
+                "latitude": 37.3779208,
+                "longitude": -79.1222453
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 939,
+            "length": 2932,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "FVX": {
             "id": "FVX",
-            "name": "Farmville Regional",
+            "secondaryIdentifier": "5",
+            "name": "Farmville Regional Airport",
             "coordinates": {
-                "latitude": 37.3574,
-                "longitude": -78.4383
+                "latitude": 37.3575278,
+                "longitude": -78.4378056
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 415.7,
+            "length": 4400,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "LYH": {
             "id": "LYH",
-            "name": "Lynchburg Regional",
+            "secondaryIdentifier": "5",
+            "name": "Lynchburg Regional Airport",
             "coordinates": {
-                "latitude": 37.3267,
-                "longitude": -79.2004
+                "latitude": 37.3253889,
+                "longitude": -79.2012222
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 938.2,
+            "length": 7100,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "W90": {
             "id": "W90",
-            "name": "New London",
+            "secondaryIdentifier": "5",
+            "name": "New London Airport",
             "coordinates": {
-                "latitude": 37.2704,
-                "longitude": -79.3328
+                "latitude": 37.2717278,
+                "longitude": -79.3359000
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 842,
+            "length": 3164,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "W91": {
             "id": "W91",
-            "name": "Smith Mountain Lake",
+            "secondaryIdentifier": "5",
+            "name": "Smith Mountain Lake Airport",
             "coordinates": {
-                "latitude": 37.1047,
-                "longitude": -79.6147
+                "latitude": 37.1077222,
+                "longitude": -79.5924722
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 892.2,
+            "length": 3058,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
-        "5W5": {
-            "id": "5W5",
-            "name": "William M. Tuck",
+        "W78": {
+            "id": "W78",
+            "secondaryIdentifier": "5",
+            "name": "William M. Tuck Airport",
             "coordinates": {
-                "latitude": 36.7079,
-                "longitude": -78.8467
+                "latitude": 36.7093724,
+                "longitude": -78.8483375
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 419.8,
+            "length": 2065,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 5",
-            "secondaryIdentifier": "5"
+            "notes": "",
+            "alert": ""
         },
         "CXE": {
             "id": "CXE",
-            "name": "Chase City Municipal",
+            "secondaryIdentifier": "6",
+            "name": "Chase City Municipal Airport",
             "coordinates": {
-                "latitude": 36.7873,
-                "longitude": -78.4994
+                "latitude": 36.7883356,
+                "longitude": -78.5015536
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 503,
+            "length": 3400,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 6",
-            "secondaryIdentifier": "6"
+            "notes": "",
+            "alert": ""
         },
         "EMV": {
             "id": "EMV",
-            "name": "Emporia-Greenville Regional",
+            "secondaryIdentifier": "6",
+            "name": "Emporia-Greenville Regional Airport",
             "coordinates": {
-                "latitude": 36.6869,
-                "longitude": -77.4827
+                "latitude": 36.6868581,
+                "longitude": -77.4827489
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 126.7,
+            "length": 5010,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 6",
-            "secondaryIdentifier": "6"
+            "notes": "",
+            "alert": ""
         },
         "FKN": {
             "id": "FKN",
-            "name": "Franklin Municipal",
+            "secondaryIdentifier": "6",
+            "name": "Franklin Municipal Airport",
             "coordinates": {
-                "latitude": 36.6981,
-                "longitude": -76.9037
+                "latitude": 36.7002964,
+                "longitude": -76.9021356
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 40.3,
+            "length": 4977,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 6",
-            "secondaryIdentifier": "6"
+            "notes": "",
+            "alert": ""
         },
         "W63": {
             "id": "W63",
-            "name": "Lake Country Regional",
+            "secondaryIdentifier": "6",
+            "name": "Lake Country Regional Airport",
             "coordinates": {
-                "latitude": 36.7713,
-                "longitude": -78.3269
+                "latitude": 36.5963667,
+                "longitude": -78.5597294
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 420.9,
+            "length": 4007,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 6",
-            "secondaryIdentifier": "6"
+            "notes": "",
+            "alert": ""
         },
         "LVL": {
             "id": "LVL",
-            "name": "Lawrenceville-Brunswick Municipal",
+            "secondaryIdentifier": "6",
+            "name": "Lawrenceville-Brunswick Municipal Airport",
             "coordinates": {
-                "latitude": 36.7727,
-                "longitude": -77.7942
+                "latitude": 36.7746292,
+                "longitude": -77.7937819
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 328.7,
+            "length": 3020,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 6",
-            "secondaryIdentifier": "6"
+            "notes": "",
+            "alert": ""
         },
         "W31": {
             "id": "W31",
-            "name": "Lunenburg County",
+            "secondaryIdentifier": "6",
+            "name": "Lunenburg County Airport",
             "coordinates": {
-                "latitude": 36.9587,
-                "longitude": -78.1968
+                "latitude": 36.9604028,
+                "longitude": -78.1851111
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 526,
+            "length": 3000,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 6",
-            "secondaryIdentifier": "6"
+            "notes": "",
+            "alert": ""
         },
         "AVC": {
             "id": "AVC",
-            "name": "Mecklenburg-Brunswick Regional",
+            "secondaryIdentifier": "6",
+            "name": "Mecklenburg-Brunswick Regional Airport",
             "coordinates": {
-                "latitude": 36.5883,
-                "longitude": -78.0438
+                "latitude": 36.6882778,
+                "longitude": -78.0544722
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 441.4,
+            "length": 5002,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 6",
-            "secondaryIdentifier": "6"
+            "notes": "",
+            "alert": ""
         },
         "AKQ": {
             "id": "AKQ",
-            "name": "Wakefield Municipal",
+            "secondaryIdentifier": "6",
+            "name": "Wakefield Municipal Airport",
             "coordinates": {
-                "latitude": 36.9873,
-                "longitude": -77.0005
+                "latitude": 36.9872222,
+                "longitude": -77.0011389
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 111.4,
+            "length": 4337,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 6",
-            "secondaryIdentifier": "6"
+            "notes": "",
+            "alert": ""
         },
         "MFV": {
             "id": "MFV",
-            "name": "Accomack County",
+            "secondaryIdentifier": "7",
+            "name": "Accomack County Airport",
             "coordinates": {
-                "latitude": 37.6469,
-                "longitude": -75.7613
+                "latitude": 37.6468789,
+                "longitude": -75.7610453
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 47.6,
+            "length": 5000,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "CPK": {
             "id": "CPK",
-            "name": "Chesapeake Regional",
+            "secondaryIdentifier": "7",
+            "name": "Chesapeake Regional Airport",
             "coordinates": {
-                "latitude": 36.6652,
-                "longitude": -76.3205
+                "latitude": 36.6656175,
+                "longitude": -76.3206558
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 18.7,
+            "length": 5500,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "PVG": {
             "id": "PVG",
-            "name": "Hampton Roads Executive",
+            "secondaryIdentifier": "7",
+            "name": "Hampton Roads Executive Airport",
             "coordinates": {
-                "latitude": 36.7804,
-                "longitude": -76.4478
+                "latitude": 36.7807648,
+                "longitude": -76.4512804
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 28,
+            "length": 5350,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "W75": {
             "id": "W75",
-            "name": "Hummel Field",
+            "secondaryIdentifier": "7",
+            "name": "Hummel Field Airport",
             "coordinates": {
-                "latitude": 37.5135,
-                "longitude": -76.4628
+                "latitude": 37.6022708,
+                "longitude": -76.4467292
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 30,
+            "length": 2167,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
-        "W94": {
-            "id": "W94",
-            "name": "Middle Peninsula Regional",
+        "FYJ": {
+            "id": "FYJ",
+            "secondaryIdentifier": "7",
+            "name": "Middle Peninsula Regional Airport",
             "coordinates": {
-                "latitude": 37.5211,
-                "longitude": -76.7653
+                "latitude": 37.5213611,
+                "longitude": -76.7627500
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 20.4,
+            "length": 5000,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "PHF": {
             "id": "PHF",
-            "name": "Newport News/Williamsburg International",
+            "secondaryIdentifier": "7",
+            "name": "Newport News/Williamsburg International Airport",
             "coordinates": {
-                "latitude": 37.1319,
-                "longitude": -76.4929
+                "latitude": 37.1318889,
+                "longitude": -76.4929722
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 42.2,
+            "length": 8003,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "ORF": {
             "id": "ORF",
-            "name": "Norfolk International",
+            "secondaryIdentifier": "7",
+            "name": "Norfolk International Airport",
             "coordinates": {
-                "latitude": 36.8946,
-                "longitude": -76.2012
+                "latitude": 36.8946042,
+                "longitude": -76.2012292
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 26.4,
+            "length": 9001,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "SFQ": {
             "id": "SFQ",
-            "name": "Suffolk Executive",
+            "secondaryIdentifier": "7",
+            "name": "Suffolk Executive Airport",
             "coordinates": {
-                "latitude": 36.6824,
-                "longitude": -76.6019
+                "latitude": 36.6828884,
+                "longitude": -76.5996232
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 70.1,
+            "length": 5007,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "TGI": {
             "id": "TGI",
-            "name": "Tangier Island",
+            "secondaryIdentifier": "7",
+            "name": "Tangier Island Airport",
             "coordinates": {
-                "latitude": 37.8270,
-                "longitude": -75.9996
+                "latitude": 37.8258653,
+                "longitude": -75.9976625
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 5.4,
+            "length": 2426,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "JGG": {
             "id": "JGG",
-            "name": "Williamsburg-Jamestown",
+            "secondaryIdentifier": "7",
+            "name": "Williamsburg-Jamestown Airport",
             "coordinates": {
-                "latitude": 37.2393,
-                "longitude": -76.7157
+                "latitude": 37.2391747,
+                "longitude": -76.7160961
             },
-            "elevation": 726.2,
-            "length": 5498,
+            "elevation": 49,
+            "length": 3204,
             "type": "airport",
             "icon": "airplane",
-            "notes": "Region 7",
-            "secondaryIdentifier": "7"
+            "notes": "",
+            "alert": ""
         },
         "M01": {
             "id": "M01",
+            "secondaryIdentifier": "M",
             "name": "Air Power Park",
             "coordinates": {
                 "latitude": 37.043270,
@@ -913,179 +988,187 @@
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
-        
-        
-        
-        
         "M02": {
             "id": "M02",
+            "secondaryIdentifier": "M",
             "name": "Military Aviation Museum",
             "coordinates": {
-                "latitude": 36.6752,
-                "longitude": -76.0192
+                "latitude": 36.678989,
+                "longitude": -76.029770
             },
             "elevation": 0,
             "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
         "M03": {
             "id": "M03",
+            "secondaryIdentifier": "M",
             "name": "Steven F. Udvar-Hazy Center (NASM)",
             "coordinates": {
-                "latitude": 38.9105,
-                "longitude": -77.4436
+                "latitude": 38.911060,
+                "longitude": -77.443990
             },
             "elevation": 0,
             "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
         "M04": {
             "id": "M04",
+            "secondaryIdentifier": "M",
             "name": "National Museum of the Marine Corps",
             "coordinates": {
-                "latitude": 38.5400,
-                "longitude": -77.3373
+                "latitude": 38.559350,
+                "longitude": -77.322940
             },
             "elevation": 0,
             "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
         "M05": {
             "id": "M05",
+            "secondaryIdentifier": "M",
             "name": "Science Museum of Virginia",
             "coordinates": {
-                "latitude": 37.5603,
-                "longitude": -77.4671
+                "latitude": 37.560631,
+                "longitude": -77.466202
             },
             "elevation": 0,
             "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
         "M06": {
             "id": "M06",
+            "secondaryIdentifier": "M",
             "name": "Shannon Air Museum",
             "coordinates": {
-                "latitude": 38.2636,
-                "longitude": -77.4512
+                "latitude": 38.267700,
+                "longitude": -77.449059
             },
             "elevation": 0,
             "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
         "M07": {
             "id": "M07",
+            "secondaryIdentifier": "M",
             "name": "U.S. Army Transportation Museum",
             "coordinates": {
-                "latitude": 37.1522,
-                "longitude": -76.6204
+                "latitude": 37.171870,
+                "longitude": -76.571450
             },
             "elevation": 0,
             "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
         "M08": {
             "id": "M08",
+            "secondaryIdentifier": "M",
             "name": "Virginia Air and Space Center",
             "coordinates": {
-                "latitude": 37.0194,
-                "longitude": -76.3453
+                "latitude": 37.023979,
+                "longitude": -76.344299
             },
             "elevation": 0,
             "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
         "M09": {
             "id": "M09",
+            "secondaryIdentifier": "M",
             "name": "Virginia Museum of Transportation",
             "coordinates": {
-                "latitude": 37.2721,
-                "longitude": -79.9414
+                "latitude": 37.273159,
+                "longitude": -79.946312
             },
             "elevation": 0,
             "length": 0,
             "type": "museum",
             "icon": "building.columns",
             "notes": "",
-            "secondaryIdentifier": "s"
+            "alert": ""
         },
         "T01": {
             "id": "T01",
+            "secondaryIdentifier": "T",
             "name": "Jared's House",
             "coordinates": {
                 "latitude": 35.224140,
                 "longitude": -80.808580
             },
-            "elevation": 1000,
-            "length": 6000,
+            "elevation": 0,
+            "length": 0,
             "type": "test",
-            "icon": "hammer",
+            "icon": "hammer.fill",
             "notes": "",
-            "secondaryIdentifier": "t"
+            "alert": ""
         },
         "T02": {
             "id": "T02",
+            "secondaryIdentifier": "T",
             "name": "Delta Office (RIC)",
             "coordinates": {
                 "latitude": 37.527470,
                 "longitude": -77.613370
             },
-            "elevation": 1000,
-            "length": 6000,
+            "elevation": 0,
+            "length": 0,
             "type": "test",
-            "icon": "hammer",
+            "icon": "hammer.fill",
             "notes": "",
-            "secondaryIdentifier": "t"
+            "alert": ""
         },
         "T03": {
             "id": "T03",
+            "secondaryIdentifier": "T",
             "name": "Delta Office (RAL)",
             "coordinates": {
-                "latitude": 35.869690,
-                "longitude": -78.789430
+                "latitude": 35.881093,
+                "longitude": -78.783783
             },
-            "elevation": 1000,
-            "length": 6000,
+            "elevation": 0,
+            "length": 0,
             "type": "test",
-            "icon": "hammer",
+            "icon": "hammer.fill",
             "notes": "",
-            "secondaryIdentifier": "t"
+            "alert": ""
         },
         "T04": {
             "id": "T04",
+            "secondaryIdentifier": "T",
             "name": "Delta Office (CLT)",
             "coordinates": {
                 "latitude": 35.085240,
                 "longitude": -80.848240
             },
-            "elevation": 1000,
-            "length": 6000,
+            "elevation": 0,
+            "length": 0,
             "type": "test",
-            "icon": "hammer",
+            "icon": "hammer.fill",
             "notes": "",
-            "secondaryIdentifier": "t"
+            "alert": ""
         }
     }
 }
