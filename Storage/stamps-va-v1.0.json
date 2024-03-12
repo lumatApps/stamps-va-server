@@ -1110,6 +1110,66 @@
             "notes": "",
             "alert": ""
         },
+        "S01": {
+            "id": "S01",
+            "secondaryIdentifier": "S",
+            "name": "Teaching Human Performance and Communication (FAASTeam events)",
+            "coordinates": {
+                "latitude": 37.241140,
+                "longitude": -76.716470
+            },
+            "elevation": 0,
+            "length": 0,
+            "type": "seminar",
+            "icon": "book.closed",
+            "notes": "This seminar is Forum 2 in a 5-Forum Series titled 'Teaching Human Factors for CFIs'.  In this Forum we will discuss teaching human performance and communication.",
+            "alert": ""
+        },
+        "S02": {
+            "id": "S02",
+            "secondaryIdentifier": "S",
+            "name": "Drone Safety Day - Be Aware When You Are In The Air! (FAASTeam events)",
+            "coordinates": {
+                "latitude": 36.777630,
+                "longitude": -76.447760
+            },
+            "elevation": 0,
+            "length": 0,
+            "type": "seminar",
+            "icon": "book.closed",
+            "notes": "Whether you're flying with the birds in a plane/rotorcraft, or flying with your feet on the ground. Drone safety affects all aviation enthusiasts. Come join the Richmond FAASTeam Representative DronePros at the Hampton Roads Executive Airport and learn all about where and how to fly drones safely. This will be a fun filled, open-to-the-public event focusing on safe and responsible drone flying. Highlights include exciting drone demonstrations, opportunity to operate the Zephyr drone simulator and much more! Engage with FAA Safety Team Representative DronePro's in a friendly setting, and witness the thrilling potential of drones in a safe controlled environment. Please spread the word. It's perfect for enthusiasts, families, and anyone curious about drones. ",
+            "alert": ""
+        },
+        "F01": {
+            "id": "F01",
+            "secondaryIdentifier": "LAL",
+            "name": "Lakeland Linder International Airport",
+            "coordinates": {
+                "latitude": 27.9876389,
+                "longitude": -82.0190000
+            },
+            "elevation": 141.8,
+            "length": 8500,
+            "type": "flyIn",
+            "icon": "airplane.departure",
+            "notes": "The Sun ‘n Fun Fly-In",
+            "alert": ""
+        },
+        "F02": {
+            "id": "F02",
+            "secondaryIdentifier": "OSH",
+            "name": "Wittman Regional Airport",
+            "coordinates": {
+                "latitude": 43.9843708,
+                "longitude": -88.5570425
+            },
+            "elevation": 808.5,
+            "length": 8002,
+            "type": "flyIn",
+            "icon": "airplane.departure",
+            "notes": "EAA AirVenture Oshkosh",
+            "alert": ""
+        },
         "T01": {
             "id": "T01",
             "secondaryIdentifier": "T",
@@ -1122,8 +1182,8 @@
             "length": 0,
             "type": "test",
             "icon": "hammer.fill",
-            "notes": "",
-            "alert": ""
+            "notes": "Test notes.",
+            "alert": "Test alert."
         },
         "T02": {
             "id": "T02",
@@ -1137,8 +1197,8 @@
             "length": 0,
             "type": "test",
             "icon": "hammer.fill",
-            "notes": "",
-            "alert": ""
+            "notes": "Test notes.",
+            "alert": "Test alert."
         },
         "T03": {
             "id": "T03",
@@ -1152,8 +1212,8 @@
             "length": 0,
             "type": "test",
             "icon": "hammer.fill",
-            "notes": "",
-            "alert": ""
+            "notes": "Test notes.",
+            "alert": "Test alert."
         },
         "T04": {
             "id": "T04",
@@ -1167,8 +1227,8 @@
             "length": 0,
             "type": "test",
             "icon": "hammer.fill",
-            "notes": "",
-            "alert": ""
+            "notes": "Test notes.",
+            "alert": "Test alert."
         }
     }
 }
